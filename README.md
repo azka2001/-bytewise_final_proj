@@ -1,5 +1,6 @@
 # bytewise_final_proj
-#Completed: Streamlit dashboard
+#Completed: Streamlit Dashboard
+#Completed: Burrito Dashboard
 
 Name:Azka Ahmad
 
